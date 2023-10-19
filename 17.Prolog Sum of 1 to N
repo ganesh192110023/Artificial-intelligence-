@@ -1,0 +1,2 @@
+sum(N,SUM):-
+ sum is (N + 1)*N/2
